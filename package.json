@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-typescript-team-blog-starter",
-  "description": "A starter for a team blog powered by Gatsby, TypeScript, Markdown",
+  "name": "website",
+  "description": "Enjoy the GNUFunk r-evolution",
   "version": "0.1.0",
   "author": "Sujin Lee <sujinle.me@gmail.com>",
   "bugs": {
-    "url": "https://github.com/sujinleeme/gatsby-typescript-team-blog-starter/issues"
+    "url": "https://github.com/gnufunk/website/issues"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.7",
@@ -50,7 +50,7 @@
     "prettier": "^2.0.2",
     "typescript": "^3.8.3"
   },
-  "homepage": "https://github.com/sujinleeme/gatsby-typescript-team-blog-starter#readme",
+  "homepage": "https://github.com/gnufunk/website#readme",
   "keywords": [
     "gatsby",
     "blog",
@@ -60,7 +60,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sujinleeme/gatsby-typescript-team-blog-starter.git"
+    "url": "git+https://github.com/gnufunk/website.git"
   },
   "scripts": {
     "build": "gatsby build",

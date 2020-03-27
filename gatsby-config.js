@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby-TypeScript Team Blog Starter`,
+    title: `GNUFUNK`,
     author: {
-      name: `Pokemon Master`,
-      summary: `Write down your team description`,
+      name: `GNUFUNK Folks`,
+      summary: `Living in somewhere`,
     },
-    description: `Make your awesome team blog`,
+    description: `enjoy the gnufunk r-evolution`,
     siteUrl: `https://gatsby-typescript-team-blog-starter.netlify.com/`,
     social: {
-      twitter: `@sujinleeme`,
+      twitter: `@gnufunk`,
     },
   },
   plugins: [
