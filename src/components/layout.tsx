@@ -13,7 +13,7 @@ interface Props {
 declare const __PATH_PREFIX__: string;
 
 const routes: NavProps[] = [
-  { title: "about", url: "/about" },
+  { title: "manifesto", url: "/manifesto" },
   { title: "contact", url: "/contact" },
 ];
 
